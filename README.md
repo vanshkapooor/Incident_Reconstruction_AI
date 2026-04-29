@@ -40,13 +40,13 @@ incident_reconstruction/<br>
 │── requirements.txt<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
-1. Clone Repository
+1. Clone Repository<br>
 git clone <a href="(https://github.com/vanshkapooor/Incident_Reconstruction_AI.git)">Click here</a>
 
-2. Install Dependencies
+2. Install Dependencies<br>
 pip install -r requirements.txt
 
-3. Run Application
+3. Run Application<br>
 streamlit run app.py
 
 Open in browser:
