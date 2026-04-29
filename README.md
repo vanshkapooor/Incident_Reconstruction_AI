@@ -41,7 +41,7 @@ incident_reconstruction/<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
 1. Clone Repository
-git clone <https://github.com/vanshkapooor/Incident_Reconstruction_AI.git>
+git clone <a href="(https://github.com/vanshkapooor/Incident_Reconstruction_AI.git)">Click here</a>
 
 2. Install Dependencies
 pip install -r requirements.txt
