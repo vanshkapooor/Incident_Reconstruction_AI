@@ -44,7 +44,7 @@ incident_reconstruction/<br>
 
 2. Once Ollama is Installed, Pull Phi3 model from Ollama
 
-3. Chnage directory incident_reconstruction
+3. Change directory to incident_reconstruction
 
 4. Run Application<br>
 streamlit run app.py
