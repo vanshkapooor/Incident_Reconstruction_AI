@@ -41,11 +41,8 @@ incident_reconstruction/<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
 1. Install Ollama
-
 2. Once Ollama is Installed, Pull Phi3 model from Ollama
-
 3. Change directory to incident_reconstruction
-
 4. Run Application<br>
 streamlit run app.py
 
@@ -57,6 +54,7 @@ http://localhost:8501
 User uploads input files (logs, statements, notes, images)<br>
 All inputs are merged into a unified context<br>
 LLM processes the data:<br>
+
    1. Extracts events<br>
    2. Builds timeline<br>
    3. Generates narrative<br>
