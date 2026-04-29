@@ -9,20 +9,20 @@ This project builds a Generative AI system that:
 
    
 <h2>🚀 Features</h2>
-📂 Upload multiple input files (logs, notes, statements)
-🖼️ Extract text from images (OCR support)
-🧠 Context merging using Large Language Models (LLMs)
-🕒 Automatic timeline generation
-📝 Narrative generation (human-readable report)
-📊 Timeline visualization (chart + table)
-📥 Download final incident report
-🌐 Supports both local (Ollama) and cloud (Hugging Face) models
+📂 Upload multiple input files (logs, notes, statements)<br>
+🖼️ Extract text from images (OCR support)<br>
+🧠 Context merging using Large Language Models (LLMs)<br>
+🕒 Automatic timeline generation<br>
+📝 Narrative generation (human-readable report)<br>
+📊 Timeline visualization (chart + table)<br>
+📥 Download final incident report<br>
+🌐 Supports local (Ollama)<br>
 
 <h2>🏗️ Tech Stack</h2>
 
-1. Frontend/UI: Streamlit
-2. LLM Integration: Ollama (local)
-3. Language: Python
+1. Frontend/UI: Streamlit<br>
+2. LLM Integration: Ollama (local)<br>
+3. Language: Python<br>
 4. Libraries:
      i. streamlit
      ii. requests
