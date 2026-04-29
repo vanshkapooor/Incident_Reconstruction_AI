@@ -72,7 +72,6 @@ Large inputs can slow down processing<br>
 
 <h2>🔥 Future Improvements</h2>
 Multi-agent architecture<br>
-Better timeline visualization (interactive graphs)<br>
 Confidence scoring for events<br>
 Real-time log streaming<br>
 Integration with vector databases (RAG)<br>
