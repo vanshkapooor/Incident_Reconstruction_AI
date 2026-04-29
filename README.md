@@ -23,21 +23,21 @@ This project builds a Generative AI system that:
 1. Frontend/UI: Streamlit<br>
 2. LLM Integration: Ollama (local)<br>
 3. Language: Python<br>
-4. Libraries:
-     i. streamlit
-     ii. requests
-     iii. pandas
-     iv. Altair
-     v. Pillow
+4. Libraries:<br>
+     i. streamlit<br>
+     ii. requests<br>
+     iii. pandas<br>
+     iv. Altair<br>
+     v. Pillow<br>
 
 <h2>📁 Project Structure</h2>
-incident_reconstruction/
-│── app.py              # Streamlit UI
-│── processor.py        # Pipeline logic
-│── prompts.py          # LLM prompts
-│── llm.py              # LLM API integration
-│── data/               # Sample inputs
-│── requirements.txt
+incident_reconstruction/<br>
+│── app.py              # Streamlit UI<br>
+│── processor.py        # Pipeline logic<br>
+│── prompts.py          # LLM prompts<br>
+│── llm.py              # LLM API integration<br>
+│── data/               # Sample inputs<br>
+│── requirements.txt<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
 1. Clone Repository
