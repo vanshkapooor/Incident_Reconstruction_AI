@@ -40,13 +40,13 @@ incident_reconstruction/<br>
 │── requirements.txt<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
-1. Clone Repository<br>
-git clone <a href="(https://github.com/vanshkapooor/Incident_Reconstruction_AI.git)">Click here</a>
+1. Install Ollama
 
-2. Install Dependencies<br>
-pip install -r requirements.txt
+2. Once Ollama is Installed, Pull Phi3 model from Ollama
 
-3. Run Application<br>
+3. Chnage directory incident_reconstruction
+
+4. Run Application<br>
 streamlit run app.py
 
 Open in browser:
