@@ -32,11 +32,11 @@ This project builds a Generative AI system that:
 
 <h2>📁 Project Structure</h2>
 incident_reconstruction/<br>
-│── app.py             
-│── processor.py        
-│── prompts.py          
-│── llm.py              
-│── data/               
+│── app.py      <br>       
+│── processor.py   <br>     
+│── prompts.py   <br>       
+│── llm.py     <br>         
+│── data/       <br>        
 │── requirements.txt<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
@@ -85,7 +85,3 @@ Context merging & prompt engineering<br>
 Building end-to-end GenAI applications<br>
 Streamlit UI development<br>
 Handling multi-modal inputs (text + images)<br>
-
-<h2>👨‍💻 Author</h2>
-
-Vansh Kapoor
