@@ -8,7 +8,7 @@ This project builds a Generative AI system that:
 3. Generates a coherent, time-ordered incident narrative
 
    
-#🚀 Features
+<h2>🚀 Features</h2>
 📂 Upload multiple input files (logs, notes, statements)
 🖼️ Extract text from images (OCR support)
 🧠 Context merging using Large Language Models (LLMs)
