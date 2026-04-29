@@ -3,18 +3,16 @@ Investigators struggle to piece together events from fragmented reports. Build a
 
 This project builds a Generative AI system that:
 
-1. Accepts multiple input sources (text files, logs, notes, statements, images)
+1. Accepts multiple input sources (text files, logs, notes, statements)
 2. Merges context intelligently
 3. Generates a coherent, time-ordered incident narrative
 
    
 <h2>🚀 Features</h2>
 📂 Upload multiple input files (logs, notes, statements)<br>
-🖼️ Extract text from images (OCR support)<br>
 🧠 Context merging using Large Language Models (LLMs)<br>
 🕒 Automatic timeline generation<br>
 📝 Narrative generation (human-readable report)<br>
-📊 Timeline visualization (chart + table)<br>
 📥 Download final incident report<br>
 🌐 Supports local (Ollama)<br>
 
@@ -41,7 +39,7 @@ incident_reconstruction/<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
 1. Install Ollama<br>
-2. Once Ollama is Installed, Pull Phi3 model from Ollama<br>
+2. Once Ollama is installed, pull the Phi3 model from Ollama<br>
 3. Change directory to incident_reconstruction<br>
 4. Run Application:<br>
 
@@ -52,7 +50,7 @@ Open in browser:
 http://localhost:8501
 
 <h2>🔄 How It Works</h2>
-User uploads input files (logs, statements, notes, images)<br>
+User uploads input files (logs, statements, notes)<br>
 All inputs are merged into a unified context<br>
 LLM processes the data:<br>
 
