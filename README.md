@@ -45,7 +45,7 @@ incident_reconstruction/<br>
 3. Change directory to incident_reconstruction<br>
 4. Run Application:<br>
 
-streamlit run app.py
+   streamlit run app.py
 
 Open in browser:
 
