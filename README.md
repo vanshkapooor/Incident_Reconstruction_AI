@@ -57,10 +57,9 @@ http://localhost:8501
 User uploads input files (logs, statements, notes, images)<br>
 All inputs are merged into a unified context<br>
 LLM processes the data:<br>
-    1. Extracts events<br>
-    2. Builds timeline<br>
-    3. Generates narrative<br>
-Results are displayed and visualized<br>
+   1. Extracts events<br>
+   2. Builds timeline<br>
+   3. Generates narrative<br>
 
 <h2>📊 Example Use Cases</h2>
 Cybersecurity incident analysis<br>
