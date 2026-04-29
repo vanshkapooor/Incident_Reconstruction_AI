@@ -54,39 +54,39 @@ Open in browser:
 http://localhost:8501
 
 <h2>🔄 How It Works</h2>
-User uploads input files (logs, statements, notes, images)
-All inputs are merged into a unified context
-LLM processes the data:
-    1. Extracts events
-    2. Builds timeline
-    3. Generates narrative
-Results are displayed and visualized
+User uploads input files (logs, statements, notes, images)<br>
+All inputs are merged into a unified context<br>
+LLM processes the data:<br>
+    1. Extracts events<br>
+    2. Builds timeline<br>
+    3. Generates narrative<br>
+Results are displayed and visualized<br>
 
 <h2>📊 Example Use Cases</h2>
-Cybersecurity incident analysis
-IT system failure investigation
-Fraud detection reports
-Operational incident tracking
+Cybersecurity incident analysis<br>
+IT system failure investigation<br>
+Fraud detection reports<br>
+Operational incident tracking<br>
 
 <h2>⚠️ Limitations</h2>
-Free LLM APIs may be slow or rate-limited
-Smaller models may produce less accurate timelines
-OCR may struggle with low-quality images
-Large inputs can slow down processing
+Free LLM APIs may be slow or rate-limited<br>
+Smaller models may produce less accurate timelines<br>
+OCR may struggle with low-quality images<br>
+Large inputs can slow down processing<br>
 
 <h2>🔥 Future Improvements</h2>
-Multi-agent architecture
-Better timeline visualization (interactive graphs)
-Confidence scoring for events
-Real-time log streaming
-Integration with vector databases (RAG)
+Multi-agent architecture<br>
+Better timeline visualization (interactive graphs)<br>
+Confidence scoring for events<br>
+Real-time log streaming<br>
+Integration with vector databases (RAG)<br>
 
 <h2>🧠 Key Learning Outcomes</h2>
-Working with Large Language Models (LLMs)
-Context merging & prompt engineering
-Building end-to-end GenAI applications
-Streamlit UI development
-Handling multi-modal inputs (text + images)
+Working with Large Language Models (LLMs)<br>
+Context merging & prompt engineering<br>
+Building end-to-end GenAI applications<br>
+Streamlit UI development<br>
+Handling multi-modal inputs (text + images)<br>
 
 <h2>👨‍💻 Author</h2>
 
