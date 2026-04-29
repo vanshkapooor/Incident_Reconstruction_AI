@@ -49,6 +49,8 @@ Open in browser:
 
 http://localhost:8501
 
+5. Githud Repository: - https://github.com/vanshkapooor/Incident_Reconstruction_AI.git
+
 <h2>🔄 How It Works</h2>
 User uploads input files (logs, statements, notes)<br>
 All inputs are merged into a unified context<br>
