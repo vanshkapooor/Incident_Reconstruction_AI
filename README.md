@@ -18,7 +18,7 @@ This project builds a Generative AI system that:
 📥 Download final incident report
 🌐 Supports both local (Ollama) and cloud (Hugging Face) models
 
-#🏗️ Tech Stack
+<h2>🏗️ Tech Stack</h2>
 
 1. Frontend/UI: Streamlit
 2. LLM Integration: Ollama (local)
@@ -30,7 +30,7 @@ This project builds a Generative AI system that:
      iv. Altair
      v. Pillow
 
-#📁 Project Structure
+<h2>📁 Project Structure</h2>
 incident_reconstruction/
 │── app.py              # Streamlit UI
 │── processor.py        # Pipeline logic
@@ -39,7 +39,7 @@ incident_reconstruction/
 │── data/               # Sample inputs
 │── requirements.txt
 
-#⚙️ Setup Instructions (Local)
+<h2>⚙️ Setup Instructions (Local)</h2>
 1. Clone Repository
 git clone <https://github.com/vanshkapooor/Incident_Reconstruction_AI.git>
 
@@ -53,7 +53,7 @@ Open in browser:
 
 http://localhost:8501
 
-🔄 How It Works
+<h2>🔄 How It Works</h2>
 User uploads input files (logs, statements, notes, images)
 All inputs are merged into a unified context
 LLM processes the data:
@@ -62,32 +62,32 @@ LLM processes the data:
     3. Generates narrative
 Results are displayed and visualized
 
-#📊 Example Use Cases
+<h2>📊 Example Use Cases</h2>
 Cybersecurity incident analysis
 IT system failure investigation
 Fraud detection reports
 Operational incident tracking
 
-#⚠️ Limitations
+<h2>⚠️ Limitations</h2>
 Free LLM APIs may be slow or rate-limited
 Smaller models may produce less accurate timelines
 OCR may struggle with low-quality images
 Large inputs can slow down processing
 
-#🔥 Future Improvements
+<h2>🔥 Future Improvements</h2>
 Multi-agent architecture
 Better timeline visualization (interactive graphs)
 Confidence scoring for events
 Real-time log streaming
 Integration with vector databases (RAG)
 
-#🧠 Key Learning Outcomes
+<h2>🧠 Key Learning Outcomes</h2>
 Working with Large Language Models (LLMs)
 Context merging & prompt engineering
 Building end-to-end GenAI applications
 Streamlit UI development
 Handling multi-modal inputs (text + images)
 
-#👨‍💻 Author
+<h2>👨‍💻 Author</h2>
 
 Vansh Kapoor
