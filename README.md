@@ -32,17 +32,17 @@ This project builds a Generative AI system that:
 
 <h2>📁 Project Structure</h2>
 incident_reconstruction/<br>
-│── app.py              # Streamlit UI<br>
-│── processor.py        # Pipeline logic<br>
-│── prompts.py          # LLM prompts<br>
-│── llm.py              # LLM API integration<br>
-│── data/               # Sample inputs<br>
+│── app.py             
+│── processor.py        
+│── prompts.py          
+│── llm.py              
+│── data/               
 │── requirements.txt<br>
 
 <h2>⚙️ Setup Instructions (Local)</h2>
-1. Install Ollama
-2. Once Ollama is Installed, Pull Phi3 model from Ollama
-3. Change directory to incident_reconstruction
+1. Install Ollama<br>
+2. Once Ollama is Installed, Pull Phi3 model from Ollama<br>
+3. Change directory to incident_reconstruction<br>
 4. Run Application<br>
 streamlit run app.py
 
